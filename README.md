@@ -13,5 +13,4 @@ Some of the groundwork has been started for adding further features:
 
 - Client classes for the different SWAPI resources e.g., VehicleClient.cs, PlanetClient.cs, etc.
 - Object classes for parsing data from the different SWAPI resources e.g, SpeciesDto.cs
-
-The project also needs further development with regards to performance.
+- The project also needs further development with regards to performance.
